@@ -1,7 +1,5 @@
-# Global_Edge_Guidance
 # 🌍 Global Edge Guidance Framework for Satellite Object Detection  
-**Official Implementation** of IEEE TGRS 2025 Paper  
-*"Global Edge Information Guidance with Polarity-Aware Attention for Satellite Object Detection"*  
+Modular Implementation of Edge Feature Enhancement Components
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-%23EE4C2C.svg)  
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) 
  
@@ -13,7 +11,7 @@
 ### Three Core Modules for Enhanced Edge Guidance 
 | Module | Function | 
 |--------|----------|
-| **PREFP**<br>(Poly-Resolution Edge Feature Producer) | 
+| **PREFP**<br>(Poly-Resolution Edge Feature Producer) | Multi-scale edge extraction|
 | **Edge Fusion** | Adaptive feature integration | 
 | **PLAIFI**<br>(Polarity-aware Linear Attention) | Feature refinement | 
 
