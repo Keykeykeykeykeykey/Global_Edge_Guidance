@@ -31,7 +31,6 @@ class SobelEdgeDetector(nn.Module):
                              channels: int,
                              kernel: np.ndarray) -> nn.Conv3d:
         """Helper to create frozen Conv3D layer"""
-        kernel_tensor = torch.tensor(kernel, dtype=torch.float32)
         kernel_tensor = kernel_tensor.unsqueeze(0).expand(channels, 1, 1, 3, 3)
 
         conv = nn.Conv3d(
