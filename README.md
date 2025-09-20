@@ -4,7 +4,7 @@ Modular Implementation of Edge Feature Enhancement Components
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) 
  
 <p align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Architecture+Diagram"  alt="Module Architecture" width="800"/>
+  <img src="https://github.com/Keykeykeykeykeykey/Global_Edge_Guidance/blob/main/1_1.jpg"  alt="Module Architecture" width="800"/>
 </p>
 
 
