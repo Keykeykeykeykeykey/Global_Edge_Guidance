@@ -5,6 +5,7 @@ Modular Implementation of Edge Feature Enhancement Components
  
 <p align="center">
   <img src="https://via.placeholder.com/800x300.png?text=Architecture+Diagram"  alt="Module Architecture" width="800"/>
+ ! [image] (1_1.jpg)
 </p>
  
 ## 🔥 Key Innovations 
