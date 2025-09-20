@@ -19,17 +19,17 @@ Modular Implementation of Edge Feature Enhancement Components
 
 ## Citation
 
-##If you find our work useful, please cite:
+#If you find our work useful, please cite:
 
-##```bibtex
-##@ARTICLE{11142797,
-##  author={Li, Huanxu and Xu, Keke and Liu, Xianglei},
-##  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-##  title={Global Edge Information Guidance With Polarity-Aware Attention for Satellite Object Detection}, 
-##  year={2025},
-##  volume={63},
-##  number={},
-##  pages={1-13},
-##  keywords={Image edge detection;Feature extraction;Transformers;Object detection;Remote sensing;Accuracy;Location awareness;Computer architecture;Semantics;Satellites;Deep learning;edge feature;object detection;remote sensing;Transformer}, 
-##  doi={10.1109/TGRS.2025.3603167}
-##}
+#```bibtex
+#@ARTICLE{11142797,
+#  author={Li, Huanxu and Xu, Keke and Liu, Xianglei},
+#  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+#  title={Global Edge Information Guidance With Polarity-Aware Attention for Satellite Object Detection}, 
+#  year={2025},
+#  volume={63},
+#  number={},
+#  pages={1-13},
+#  keywords={Image edge detection;Feature extraction;Transformers;Object detection;Remote sensing;Accuracy;Location awareness;Computer architecture;Semantics;Satellites;Deep learning;edge feature;object detection;remote sensing;Transformer}, 
+#  doi={10.1109/TGRS.2025.3603167}
+#}
